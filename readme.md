@@ -9,6 +9,7 @@ This repository contains a basic School CRUD API built in NodeJs to test my skil
 * DotEnv
 * BcryptJs
 * Json Web Token
+* Multer
 
 ## Requirements
 * .env file configuration
