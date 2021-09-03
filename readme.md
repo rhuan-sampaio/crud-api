@@ -1,5 +1,5 @@
 # School API
-> Status: Developing ⚠️ <br>
+> Status: Complete
 This repository contains a basic School CRUD API built in NodeJs to test my skills around SQL, Google Cloud Platform and Docker.
 
 ## Dependencies:
@@ -10,6 +10,11 @@ This repository contains a basic School CRUD API built in NodeJs to test my skil
 * BcryptJs
 * Json Web Token
 * Multer
+
+## CRUD Models
+* Users -> Required registration to allow student registration
+* Alunos -> Student registration
+* Photo -> Images that can be related with "Alunos" model with the ID
 
 ## Requirements
 * .env file configuration
